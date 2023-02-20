@@ -201,5 +201,166 @@
     "g": "Sports",
     "l": "English",
     "u": "https://live.tsports.com/live/tsports_live_720/index.m3u8"
+  },
+  {
+    "t": "Goldmines",
+    "i": "https://i.postimg.cc/MGL4RLFN/goldmines-1200x675.jpg",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8046/playlist.m3u8"
+  },
+  {
+    "t": "Dhinchaak 2",
+    "i": "https://i.postimg.cc/SxsDrrCh/Screenshot-163.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8022/playlist.m3u8"
+  },
+  {
+    "t": "Goldmines Bhojpuri",
+    "i": "https://i.postimg.cc/TwGbkdFD/maxresdefault.jpg",
+    "g": "Movies",
+    "l": "Bhojpuri",
+    "u": "https://livetv-channels.b-cdn.net/8075/playlist.m3u8"
+  },
+  {
+    "t": "MoviePlus",
+    "i": "https://i.postimg.cc/T15Tgm0q/Movie-Plus.jpg",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8099/playlist.m3u8"
+  },
+  {
+    "t": "Cinema TV",
+    "i": "https://content.jdmagicbox.com/comp/navi-mumbai/v1/022pxx22.xx22.130904121133.y3v1/catalogue/cinema-tv-rabale-navi-mumbai-satellite-channels-puloe2a4mr.jpg?clr=660066",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8000/playlist.m3u8"
+  },
+  {
+    "t": "B4U Bhojpuri",
+    "i": "https://i.postimg.cc/Nj3CjX2v/B4u-bhojpuri-no-slo.png",
+    "g": "Movies",
+    "l": "Bhojpuri",
+    "u": "https://livetv-channels.b-cdn.net/8019/playlist.m3u8"
+  },
+  {
+    "t": "Dabangg TV",
+    "i": "https://i.postimg.cc/g2Z4Q0SS/Dabangg-TV.png",
+    "g": "Entertainment",
+    "l": "Bhojpuri",
+    "u": "https://livetv-channels.b-cdn.net/8012/playlist.m3u8"
+  },
+  {
+    "t": "Bhojpuri Cinema",
+    "i": "https://i.postimg.cc/28c8MkbZ/Bhojpuri-Cinema.png",
+    "g": "Movies",
+    "l": "Bhojpuri",
+    "u": "https://livetv-channels.b-cdn.net/8074/playlist.m3u8"
+  },
+  {
+    "t": "B4U Kadak",
+    "i": "https://i.postimg.cc/Y02MDZtR/B4-U-Kadak.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8091/playlist.m3u8"
+  },
+  {
+    "t": "Wow Cinema",
+    "i": "https://i.postimg.cc/JhwmCG1G/Wow-Cinema.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8097/playlist.m3u8"
+  },
+  {
+    "t": "Shemaroo TV",
+    "i": "https://i.postimg.cc/BvymVKsV/Shemaroo-TV-Logo.jpg",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8094/playlist.m3u8"
+  },
+  {
+    "t": "Dillagi",
+    "i": "https://i.postimg.cc/GhqJfyxx/Dillagi-TV.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8093/playlist.m3u8"
+  },
+  {
+    "t": "Dhamaal",
+    "i": "https://i.postimg.cc/brqkCyG5/Dhamaal-TV.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://livetv-channels.b-cdn.net/8096/playlist.m3u8"
+  },
+  {
+    "t": "Shemaroo Marathi",
+    "i": "https://i.postimg.cc/ZnZY609W/Shemaroo-marathibana-clean.png",
+    "g": "Movies",
+    "l": "Marathi",
+    "u": "https://livetv-channels.b-cdn.net/8076/playlist.m3u8"
+  },
+  {
+    "t": "Maiboli TV",
+    "i": "https://i.postimg.cc/WprJrJy1/thumb-1648797350.jpg",
+    "g": "Music",
+    "l": "Marathi",
+    "u": "https://livetv-channels.b-cdn.net/8002/playlist.m3u8"
+  },
+  {
+    "t": "Sony Kal",
+    "i": "https://i.postimg.cc/jST6ChdT/1665461821-Sony-KAL-Hindi.jpg",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8"
+  },
+  {
+    "t": "Zee Aflam (UAE)",
+    "i": "https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8"
+  },
+  {
+    "t": "Dangal 2",
+    "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/%20pub-iodanga2a26kj2893ccLnZ.png?o=production",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "t": "EpicTV",
+    "i": "https://i.postimg.cc/XJsdPMw7/download-1.jpg",
+    "g": "Infotainment",
+    "l": "Hindi",
+    "u": "https://epiconvh.s.llnwi.net/epic/master.m3u8"
+  },
+  {
+    "t": "Ishaara TV",
+    "i": "https://i.postimg.cc/sfn46Wc9/image.jpg",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://epiconvh.s.llnwi.net/ishaara/master.m3u8"
+  },
+  {
+    "t": "Filamchi",
+    "i": "https://i.postimg.cc/NfMpBDMz/download.jpg",
+    "g": "Movies",
+    "l": "Bhojpuri",
+    "u": "https://epiconvh.s.llnwi.net/filamchi/master.m3u8"
+  },
+  {
+    "t": "Showbox",
+    "i": "https://i.postimg.cc/tTQMgxfV/Show-Box-TV-logo.png",
+    "g": "Music",
+    "l": "Hindi",
+    "u": "https://epiconvh.s.llnwi.net/showbox/master.m3u8"
+  },
+  {
+    "t": "Gubbare",
+    "i": "https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg",
+    "g": "Kids",
+    "l": "Hindi",
+    "u": "https://epiconvh.s.llnwi.net/gubbare/master.m3u8"
   }
 ]

@@ -194,5 +194,12 @@
     "i": "https://i.postimg.cc/mk58WyBc/Discovery-Kids.png",
     "g": "Kids",
     "l": "Multi Audio"
+  },
+  {
+    "t": "TSports Bangladesh",
+    "i": "https://i.postimg.cc/k5VFxS7T/T-Sports-logo.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://live.tsports.com/live/tsports_live_720/index.m3u8"
   }
 ]

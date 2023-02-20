@@ -24,7 +24,49 @@
     "t": "Enterr10 Bangla",
     "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/%20pub-iodanga2a26kj2%20pub-iobhojpuqbu6yj%20pub-iobanglakp3sffccc8qxhp.png?o=production",
     "g": "Movies",
-    "l": "Bangla",
+    "l": "Bengali",
     "u": "https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8"
+  },
+  {
+    "t": "ABP News",
+    "i": "https://i.postimg.cc/25VkbDBh/ABP-News.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/7014.ABPNews.in.m3u8"
+  },
+  {
+    "t": "India TV",
+    "i": "https://i.postimg.cc/8P2BnpTP/India-TV.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8"
+  },
+  {
+    "t": "ABP Majha",
+    "i": "https://i.postimg.cc/CMfWZKrw/ABP-Majha.png",
+    "g": "News",
+    "l": "Marathi",
+    "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/7016.ABPMajha.in.m3u8"
+  },
+  {
+    "t": "ABP Sanjha",
+    "i": "https://i.postimg.cc/FRb3q3s9/116957-main1.jpg",
+    "g": "News",
+    "l": "Punjabi",
+    "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/7018.ABPSanjha.in.m3u8"
+  },
+  {
+    "t": "ABP Ananda",
+    "i": "https://i.postimg.cc/Z5Y7LYHB/ABP-Ananda.png",
+    "g": "News",
+    "l": "Bengali",
+    "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/7015.ABPAnanda.in.m3u8"
+  },
+  {
+    "t": "ABP Asmita",
+    "i": "https://i.postimg.cc/NjMhjkWz/nw-gujarati-og.png",
+    "g": "News",
+    "l": "Gujarati",
+    "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/7019.ABPAsmita.in.m3u8"
   }
 ]

@@ -68,5 +68,47 @@
     "g": "News",
     "l": "Gujarati",
     "u": "https://d1ribbj7ls43cr.cloudfront.net/hls/7019.ABPAsmita.in.m3u8"
+  },
+  {
+    "t": "Zee News",
+    "i": "https://i.postimg.cc/bwQCx6KJ/Zee-News.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8"
+  },
+  {
+    "t": "9XM",
+    "i": "https://i.postimg.cc/CMGs6ZcP/9XM.png",
+    "g": "Music",
+    "l": "Hindi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8"
+  },
+  {
+    "t": "Republic Bharat",
+    "i": "https://i.postimg.cc/pdMd7dGC/Republic-Bharat.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8"
+  },
+  {
+    "t": "India News",
+    "i": "https://i.postimg.cc/cLwxQSxn/India-News.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8"
+  },
+  {
+    "t": "DD National",
+    "i": "https://i.postimg.cc/909mJ5dK/DD-National.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8"
+  },
+  {
+    "t": "Times Now NavBharat",
+    "i": "https://i.postimg.cc/NfNJp9Mh/download.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/master.m3u8"
   }
-]
+ ]

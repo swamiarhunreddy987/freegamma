@@ -1,28 +1,28 @@
 [
   {
     "t": "Dangal",
-    "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/4h8mqrkI.png?o=production",
+    "i": "https://i.postimg.cc/VvHTmVcz/Dangal.png",
     "g": "Entertainment",
     "l": "Hindi",
     "u": "https://enterr10-live.streamready.in/pub-iodang10p4al/liveabr/playlist.m3u8"
   },
   {
     "t": "Dangal 2",
-    "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/%20pub-iodanga2a26kj2893ccLnZ.png?o=production",
+    "i": "https://i.postimg.cc/5yNdxzYS/pub-iodanga2a26kj2893cc-Ln-Z.png",
     "g": "Entertainment",
     "l": "Hindi",
     "u": "https://enterr10-live.streamready.in/pub-iodanga2a26kj2/liveabr/playlist.m3u8"
   },
   {
     "t": "Bhojpuri Cinema",
-    "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/%20pub-iodanga2a26kj2%20pub-iobhojpuqbu6yjAXXb5bp7.png?o=production",
+    "i": "https://i.postimg.cc/cC699Bt2/pub-iodanga2a26kj2-pub-iobhojpuqbu6yj-AXXb5bp7.png",
     "g": "Movies",
     "l": "Bhojpuri",
     "u": "https://enterr10-live.streamready.in/pub-iobhojpuqbu6yj/liveabr/playlist.m3u8"
   },
   {
     "t": "Enterr10 Bangla",
-    "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/%20pub-iodanga2a26kj2%20pub-iobhojpuqbu6yj%20pub-iobanglakp3sffccc8qxhp.png?o=production",
+    "i": "https://i.postimg.cc/m2zp7VsF/pub-iodanga2a26kj2-pub-iobhojpuqbu6yj-pub-iobanglakp3sffccc8qxhp.png",
     "g": "Movies",
     "l": "Bengali",
     "u": "https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8"
@@ -323,7 +323,7 @@
   },
   {
     "t": "Dangal 2",
-    "i": "https://enterr10-assets-msp.streamready.in/assets/ENTERR10/LIVECHANNEL/pub-iodang10p4al/images/%20pub-iodanga2a26kj2893ccLnZ.png?o=production",
+    "i": "https://i.postimg.cc/5yNdxzYS/pub-iodanga2a26kj2893cc-Ln-Z.png",
     "g": "Entertainment",
     "l": "Hindi",
     "u": "http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8"
@@ -362,5 +362,33 @@
     "g": "Kids",
     "l": "Hindi",
     "u": "https://epiconvh.s.llnwi.net/gubbare/master.m3u8"
+  },
+  {
+    "t": "Sun Music HD",
+    "i": "https://i.postimg.cc/KjXffhFk/Sun-Music.png",
+    "g": "Music",
+    "l": "Tamil",
+    "u": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8"
+  },
+  {
+    "t": "NDTV 24x7",
+    "i": "https://i.postimg.cc/SK9bxqZj/NDTV-24x7.png",
+    "g": "News",
+    "l": "English",
+    "u": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
+  },
+  {
+    "t": "NDTV India",
+    "i": "https://i.postimg.cc/q71Zsv11/NDTV-India.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8"
+  },
+  {
+    "t": "NDTV Profit",
+    "i": "https://i.postimg.cc/mgRdKHqd/NDTV-Profit.png",
+    "g": "Business",
+    "l": "English",
+    "u": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8"
   }
 ]

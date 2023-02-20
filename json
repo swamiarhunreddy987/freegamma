@@ -116,21 +116,21 @@
     "t": "Discovery Channel",
     "i": "https://i.postimg.cc/3wYj6cmS/Discovery.png",
     "g": "Infotainment",
-    "l": "English"
+    "l": "Multi Audio"
   },
   {
     "u": "https://dplus.gammacdn.workers.dev/streams/96.m3u8",
     "t": "Discovery Science",
     "i": "https://i.postimg.cc/x1SLJ4xf/Discovery-Science.png",
     "g": "Infotainment",
-    "l": "English"
+    "l": "Multi Audio"
   },
   {
     "u": "https://dplus.gammacdn.workers.dev/streams/97.m3u8",
     "t": "TLC",
     "i": "https://i.postimg.cc/GmrXDQqC/TLC-HD.png",
     "g": "Lifestyle",
-    "l": "English"
+    "l": "Multi Audio"
   },
   {
     "u": "https://dplus.gammacdn.workers.dev/streams/98.m3u8",
@@ -144,14 +144,14 @@
     "t": "Animal Planet",
     "i": "https://i.postimg.cc/LsWkxBBh/Animal-Planet-HD.png",
     "g": "Infotainment",
-    "l": "English"
+    "l": "Multi Audio"
   },
   {
     "u": "https://dplus.gammacdn.workers.dev/streams/101.m3u8",
     "t": "Investigation Discovery",
     "i": "https://i.postimg.cc/ydK43sq1/Investigation-Discovery.png",
     "g": "Infotainment",
-    "l": "English"
+    "l": "Multi Audio"
   },
   {
     "u": "https://dplus.gammacdn.workers.dev/streams/106.m3u8",
@@ -193,6 +193,6 @@
     "t": "Discovery Kids",
     "i": "https://i.postimg.cc/mk58WyBc/Discovery-Kids.png",
     "g": "Kids",
-    "l": "English"
+    "l": "Multi Audio"
   }
 ]

@@ -112,84 +112,84 @@
     "u": "https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/master.m3u8"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/95.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/95.m3u8",
     "t": "Discovery Channel",
     "i": "https://i.postimg.cc/3wYj6cmS/Discovery.png",
     "g": "Infotainment",
     "l": "Multi Audio"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/96.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/96.m3u8",
     "t": "Discovery Science",
     "i": "https://i.postimg.cc/x1SLJ4xf/Discovery-Science.png",
     "g": "Infotainment",
     "l": "Multi Audio"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/97.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/97.m3u8",
     "t": "TLC",
     "i": "https://i.postimg.cc/GmrXDQqC/TLC-HD.png",
     "g": "Lifestyle",
     "l": "Multi Audio"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/98.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/98.m3u8",
     "t": "Discovery Turbo",
     "i": "https://i.postimg.cc/5NmwhMqh/Discovery-Turbo.png",
     "g": "Infotainment",
     "l": "English"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/99.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/99.m3u8",
     "t": "Animal Planet",
     "i": "https://i.postimg.cc/LsWkxBBh/Animal-Planet-HD.png",
     "g": "Infotainment",
     "l": "Multi Audio"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/101.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/101.m3u8",
     "t": "Investigation Discovery",
     "i": "https://i.postimg.cc/ydK43sq1/Investigation-Discovery.png",
     "g": "Infotainment",
     "l": "Multi Audio"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/106.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/106.m3u8",
     "t": "Eurosport",
     "i": "https://i.postimg.cc/QdZb3tcd/Eurosports.png",
     "g": "Sports",
     "l": "English"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/109.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/109.m3u8",
     "t": "DMAX",
     "i": "https://i.postimg.cc/Fsw9stKR/DMAX.png",
     "g": "Lifestyle",
     "l": "English"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/110.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/110.m3u8",
     "t": "Travel Channel",
     "i": "https://i.postimg.cc/XvQmqFg8/Travel-Channel.png",
     "g": "Lifestyle",
     "l": "English"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/111.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/111.m3u8",
     "t": "HGTV",
     "i": "https://i.postimg.cc/3NqZ32y3/HGTV.png",
     "g": "Lifestyle",
     "l": "English"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/112.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/112.m3u8",
     "t": "Food Network",
     "i": "https://i.postimg.cc/Nj0PVLt2/Food-Network.png",
     "g": "Lifestyle",
     "l": "English"
   },
   {
-    "u": "https://dplus.gammacdn.workers.dev/videos/113.m3u8",
+    "u": "https://dplus.gammacdn.workers.dev/streams/113.m3u8",
     "t": "Discovery Kids",
     "i": "https://i.postimg.cc/mk58WyBc/Discovery-Kids.png",
     "g": "Kids",
@@ -390,5 +390,173 @@
     "g": "Business",
     "l": "English",
     "u": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8"
+  },
+  {
+    "t": "Mastiii",
+    "i": "https://i.postimg.cc/VNv2Htrx/Mastiii.png",
+    "g": "Music",
+    "l": "Hindi",
+    "u": "https://liveb.airtelxstream.in/masti/smil:common.smil/playlist.m3u8?DVR"
+  },
+  {
+    "t": "Star Plus",
+    "i": "https://i.postimg.cc/d1qYgrqF/Star-Plus.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "http://212.224.84.217:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659="
+  },
+  {
+    "t": "Sony HD (SET HD)",
+    "i": "https://i.postimg.cc/VsnhXd1B/SONY-SET-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "http://212.224.84.217:2200/R-EX/SONY_HD_-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659="
+  },
+  {
+    "t": "Zee TV HD",
+    "i": "https://i.postimg.cc/MHSd9mx0/Zee-TV-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "http://212.224.84.217:2200/R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659="
+  },
+  {
+    "t": "Star Sports 1 HD",
+    "i": "https://i.postimg.cc/FKbfjyWX/Star-Sports-1-HD.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg=="
+  },
+  {
+    "t": "Star Sports 2 HD",
+    "i": "https://i.postimg.cc/50n6rxWP/Star-Sports-HD-2.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo"
+  },
+  {
+    "t": "Star Sports 1 Hindi HD",
+    "i": "https://i.postimg.cc/dQ5yH9qq/Star-Sports-1-Hindi.png",
+    "g": "Sports",
+    "l": "Hindi",
+    "u": "http://212.224.84.217:2200/R-EX/FHD_HINDI_STAR_SPORTS_1_-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659="
+  },
+  {
+    "t": "Sun TV HD",
+    "i": "https://i.postimg.cc/26MVY03v/Sun-TV-HD.png",
+    "g": "Entertainment",
+    "l": "Tamil",
+    "u": "http://pakin.worldtvip.co/tamil_sunhd/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "t": "Asianet Plus",
+    "i": "https://i.postimg.cc/k5kmXzFn/Asianet-Plus.png",
+    "g": "Movies",
+    "l": "Malayalam",
+    "u": "http://pakin2.worldtvip.co:9090/my_asianet_plus/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "t": "Star Vijay HD",
+    "i": "https://i.postimg.cc/SNQwqmF6/Star-Vijay-HD.png",
+    "g": "Entertainment",
+    "l": "Tamil",
+    "u": "http://pakin2.worldtvip.co:9090/ind2_star_vijay_hd/index.m3u8"
+  },
+  {
+    "t": "Star Pravah HD",
+    "i": "https://i.postimg.cc/rm6BLWMs/Star-Pravah-HD.png",
+    "g": "Entertainment",
+    "l": "Marathi",
+    "u": "http://pakin2.worldtvip.co:9090/ind2_star_pravah_hd/index.m3u8"
+  },
+  {
+    "t": "Fox 501",
+    "i": "https://i.postimg.cc/v82vgyxL/Fox-Cricket.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "t": "Sky Sports Cricket HD",
+    "i": "https://i.postimg.cc/2jt4jxg0/Sky-Sports-Cricket.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "t": "Colors HD",
+    "i": "https://i.postimg.cc/nz4h8nb8/Colors-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Colors_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Sony HD (SET HD)",
+    "i": "https://i.postimg.cc/VsnhXd1B/SONY-SET-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Sony_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Sony SAB HD",
+    "i": "https://i.postimg.cc/YSnCMdjR/SONY-SAB-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Sony_SAB_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Zee TV HD",
+    "i": "https://i.postimg.cc/MHSd9mx0/Zee-TV-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Zee_TV_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Zee TV HD",
+    "i": "https://i.postimg.cc/MHSd9mx0/Zee-TV-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Zee_TV_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "& TV HD (And TV HD)",
+    "i": "https://i.postimg.cc/x1GQTtpH/tvHD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/And_TV_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Sony Max HD",
+    "i": "https://i.postimg.cc/sxJP2FWq/SONY-MAX-HD.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Sony_Max_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "And Pictures HD",
+    "i": "https://i.postimg.cc/HsgdGqBH/pictures-HD.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/And_Pictures_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Zee Cinema HD",
+    "i": "https://i.postimg.cc/gjMw5G8z/Zee-Cinema-HD.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Zee_Cinema_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "MTV Beats HD",
+    "i": "https://i.postimg.cc/PrgfqLXG/MTV-Beats-HD.png",
+    "g": "Music",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/MTV_Beats_HD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Star Gold HD",
+    "i": "https://i.postimg.cc/j5MPV6rY/Star-Gold.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_WVUH87g8evwh9ewv==,16237928349"
   }
 ]

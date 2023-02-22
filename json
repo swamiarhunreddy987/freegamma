@@ -893,7 +893,7 @@
     "i": "https://i.postimg.cc/wvnM87mb/Asianet.png",
     "g": "Entertainment",
     "l": "Malayalam",
-    "u": "http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659"
+    "u": "http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659"
   },
   {
     "t": "Asianet Movies",
@@ -901,12 +901,5 @@
     "g": "Movies",
     "l": "Malayalam",
     "u": "http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659="
-  },
-  {
-    "t": "Disney",
-    "i": "https://i.postimg.cc/2SWP23kS/Disney.png",
-    "g": "Kids",
-    "l": "English",
-    "u": "http://applyrenderflow.h1ott.com/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm"
   }
 ]

@@ -560,13 +560,6 @@
     "u": "http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_WVUH87g8evwh9ewv==,16237928349"
   },
   {
-    "t": "Sony SAB HD",
-    "i": "https://i.postimg.cc/hGVXrtxL/SONY-SAB-HD.png",
-    "g": "Entertainment",
-    "l": "Hindi",
-    "u": "https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8"
-  },
-  {
     "t": "Colors",
     "i": "https://i.postimg.cc/mrPvfPV9/Colors.png",
     "g": "Entertainment",
@@ -637,10 +630,255 @@
     "u": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8"
   },
   {
+    "t": "Sony SAB HD",
+    "i": "https://i.postimg.cc/hGVXrtxL/SONY-SAB-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8"
+  },
+  {
+    "t": "Sony HD (SET HD)",
+    "i": "https://i.postimg.cc/VsnhXd1B/SONY-SET-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8"
+  },
+  {
+    "t": "Sony Max HD (SET MAX HD)",
+    "i": "https://i.postimg.cc/x1dZBJpy/SONY-MAX-HD.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8"
+  },
+  {
+    "t": "Sony WAH",
+    "i": "https://i.postimg.cc/yxkJwT9C/SONY-WAH.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8"
+  },
+  {
+    "t": "Sony Pal",
+    "i": "https://i.postimg.cc/0Q3m539y/SONY-PAL.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8"
+  },
+  {
+    "t": "Sony PIX HD",
+    "i": "https://i.postimg.cc/XNCCY8q1/SONY-PIX-HD.png",
+    "g": "Movies",
+    "l": "English",
+    "u": " https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8"
+  },
+  {
+    "t": "Sony BBC Earth HD",
+    "i": "https://i.postimg.cc/TP5RJtZZ/SONY-BBC-EARTH.png",
+    "g": "Infotainment",
+    "l": "English",
+    "u": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 1",
+    "i": "https://i.postimg.cc/Y9hMCbxX/SONY-SPORTS-TEN-1.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 1 HD",
+    "i": "https://i.postimg.cc/dV2MszcQ/SONY-SPORTS-TEN-1-HD.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 2",
+    "i": "https://i.postimg.cc/wjTPz322/SONY-SPORTS-TEN-2.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 2 HD",
+    "i": "https://i.postimg.cc/j24g0rJB/SONY-SPORTS-TEN-2-HD.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 3",
+    "i": "https://i.postimg.cc/50wQn4hd/SONY-SPORTS-TEN-3.png",
+    "g": "Sports",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 3 HD",
+    "i": "https://i.postimg.cc/DzGSwfyJ/SONY-SPORTS-TEN-3-HD.png",
+    "g": "Sports",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 4",
+    "i": "https://i.postimg.cc/WbmShjzy/SONY-SPORTS-TEN-4.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8"
+  },
+  {
     "t": "Sony Sports Ten 4 HD",
     "i": "https://i.postimg.cc/Th8h8KzY/SONY-SPORTS-TEN-4-HD.png",
     "g": "Sports",
     "l": "English",
     "u": "https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8"
+  },
+  {
+    "t": "Sony Marathi",
+    "i": "https://i.postimg.cc/HW88S2C4/SONY-MARATHI.png",
+    "g": "Entertainment",
+    "l": "Marathi",
+    "u": "https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8"
+  },
+  {
+    "t": "Sony Aath",
+    "i": "https://i.postimg.cc/G28t5c6h/SONY-AATH.png",
+    "g": "Entertainment",
+    "l": "Bengali",
+    "u": "https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8"
+  },
+  {
+    "t": "Sony MAX",
+    "i": "https://i.postimg.cc/DyFfqdfz/SONY-MAX.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8"
+  },
+  {
+    "t": "Sony MAX 2",
+    "i": "https://i.postimg.cc/T1c6kF23/SONY-MAX-2.png",
+    "g": "Movies",
+    "l": "Hindi",
+    "u": "https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8"
+  },
+  {
+    "t": "The Q",
+    "i": "https://i.postimg.cc/hjDYMjYN/The-Q-India.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqwatcho-ono/playlist.m3u8"
+  },
+  {
+    "t": "DD Retro",
+    "i": "https://i.postimg.cc/JzCPP0DK/DD-Retro.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddretro/default/index.m3u8"
+  },
+  {
+    "t": "Sangeet Bangla",
+    "i": "https://i.postimg.cc/NM95L18x/Sangeet-Bangla.png",
+    "g": "Music",
+    "l": "Bengali",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8"
+  },
+  {
+    "t": "Republic Bangla",
+    "i": "https://i.postimg.cc/Y00L65wQ/1024px-R-Bangla-transparent-PNG.png",
+    "g": "News",
+    "l": "Bengali",
+    "u": " https://ottrbng2.republicworld.com/live/rbanglatv/playlist.m3u8"
+  },
+  {
+    "t": "Fakt Marathi",
+    "i": "https://i.postimg.cc/43HcqkKP/Fakt-Marathi.png",
+    "g": "Movies",
+    "l": "Marathi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Faktmarathi/default/index.m3u8"
+  },
+  {
+    "t": "Music India",
+    "i": "https://i.postimg.cc/ZKPVs3kn/Music-India.png",
+    "g": "Music",
+    "l": "Hindi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8"
+  },
+  {
+    "t": "Tarang",
+    "i": "https://upload.wikimedia.org/wikipedia/commons/4/47/TARANG_TV.jpg",
+    "g": "Entertainment",
+    "l": "Odia",
+    "u": " https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Tarang/default/index.m3u8"
+  },
+  {
+    "t": "Sangeet Bhojpuri",
+    "i": "https://i.postimg.cc/jSVZZX3G/Sangeet-Bhojpuri.png",
+    "g": "Music",
+    "l": "Bhojpuri",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/index.m3u8"
+  },
+  {
+    "t": "Tarang Music",
+    "i": "https://i.postimg.cc/MpRrS4j6/xl-image-16-9.jpg",
+    "g": "Music",
+    "l": "Odia",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Tarangmusic/default/index.m3u8"
+  },
+  {
+    "t": "TRT World",
+    "i": "https://i.postimg.cc/cLgG8Xg2/share-1000x500.png",
+    "g": "News",
+    "l": "English",
+    "u": "https://tv-trtworld.live.trt.com.tr/master.m3u8"
+  },
+  {
+    "t": "9X Tashan",
+    "i": "https://i.postimg.cc/RVPvtWP6/9-X-Tashan.png",
+    "g": "Music",
+    "l": "Punjabi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8"
+  },
+  {
+    "t": "9X Jalwa",
+    "i": "https://i.postimg.cc/V6yfN2KK/9x-Jalwa.png",
+    "g": "Music",
+    "l": "Hindi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJalwa/default/index.m3u8"
+  },
+  {
+    "t": "9X Jhakaas",
+    "i": "https://i.postimg.cc/8z5PXRFm/9-X-Jhakaas.png",
+    "g": "Music",
+    "l": "Marathi",
+    "u": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJhakaas/default/index.m3u8"
+  },
+  {
+    "t": "Sanskar TV",
+    "i": "https://i.postimg.cc/ZnS5wX3W/Sanskar.png",
+    "g": "Devotional",
+    "l": "Hindi",
+    "u": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8"
+  },
+  {
+    "t": "Satsang TV",
+    "i": "https://i.postimg.cc/W1WtsWRy/Satsang-TV.png",
+    "g": "Devotional",
+    "l": "Hindi",
+    "u": "https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8"
+  },
+  {
+    "t": "Sony TV",
+    "i": "https://i.postimg.cc/L58kw13K/SONY-SET.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Sony_SD.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
+  },
+  {
+    "t": "Sony Yay Telugu",
+    "i": "https://i.postimg.cc/HksLKzCZ/SONY-YAY.png",
+    "g": "Kids",
+    "l": "Telugu",
+    "u": "https://vio.gammacdn.workers.dev/usefultoolshub/Sony_Yay_Telugu.m3u8?hdnea=st=1677008891~exp=1677095291~acl=/*~hmac=0375bf9190973110062a90cb0340db16212176ce0782160dac9b797bcf8219c0"
   }
 ]

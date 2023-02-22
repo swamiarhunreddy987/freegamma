@@ -901,5 +901,12 @@
     "g": "Movies",
     "l": "Malayalam",
     "u": "http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659="
+  },
+  {
+    "t": "KidZone HD",
+    "i": "https://kidszonehd.com/wp-content/uploads/2020/04/KidsZonelogo-sm.png",
+    "g": "Kids",
+    "l": "Hindi",
+    "u": "https://live.atozsofts.com/kidzone-web/index.m3u8"
   }
 ]

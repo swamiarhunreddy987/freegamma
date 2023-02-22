@@ -558,5 +558,89 @@
     "g": "Movies",
     "l": "Hindi",
     "u": "http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_WVUH87g8evwh9ewv==,16237928349"
+  },
+  {
+    "t": "Sony SAB HD",
+    "i": "https://i.postimg.cc/hGVXrtxL/SONY-SAB-HD.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8"
+  },
+  {
+    "t": "Colors",
+    "i": "https://i.postimg.cc/mrPvfPV9/Colors.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8"
+  },
+  {
+    "t": "Sony TV (SET)",
+    "i": "https://i.postimg.cc/L58kw13K/SONY-SET.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8"
+  },
+  {
+    "t": "Sony KAL HD",
+    "i": "https://i.postimg.cc/jST6ChdT/1665461821-Sony-KAL-Hindi.jpg",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+  },
+  {
+    "t": "News 24",
+    "i": "https://i.postimg.cc/y8jLQ7HZ/News-24.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
+  },
+  {
+    "t": "TV9 Bharatvarsh",
+    "i": "https://i.postimg.cc/s2ZZBJwg/TV9-Bharatvarsh.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8"
+  },
+  {
+    "t": "Joo Music",
+    "i": "https://www.joomusic.info/assets/images/logo.png",
+    "g": "Entertainment",
+    "l": "Hindi",
+    "u": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+  },
+  {
+    "t": "Aaj Tak HD",
+    "i": "https://i.postimg.cc/QCBLsHjw/Aaj-Tak-HD.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+  },
+  {
+    "t": "Good News Today (GNT)",
+    "i": "https://i.postimg.cc/pr5S44Zt/Good-News-Today.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://feeds.intoday.in/gnt/api/master.m3u8"
+  },
+  {
+    "t": "ABP News",
+    "i": "https://i.postimg.cc/25VkbDBh/ABP-News.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8"
+  },
+  {
+    "t": "India TV",
+    "i": "https://i.postimg.cc/mDYj948k/India-TV.png",
+    "g": "News",
+    "l": "Hindi",
+    "u": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8"
+  },
+  {
+    "t": "Sony Sports Ten 4 HD",
+    "i": "https://i.postimg.cc/Th8h8KzY/SONY-SPORTS-TEN-4-HD.png",
+    "g": "Sports",
+    "l": "English",
+    "u": "https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8"
   }
 ]
